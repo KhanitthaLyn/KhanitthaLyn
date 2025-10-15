@@ -48,7 +48,9 @@
 ### 📊 GitHub Stats
 ![Rhythm's GitHub stats]
 
-![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/KhanitthaLyn&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanitthaLyn&layout=compact&theme=dracula&hide=html,css)
+
+
 
     🧩 ตัวอย่างของคุณ:
 
