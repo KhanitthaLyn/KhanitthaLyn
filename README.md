@@ -59,7 +59,6 @@
 - Backend Development
 - SAP Backend Development
 - DevOps & Cloud Automation
-- 
 ---
 
 ### 🚀 Projects
