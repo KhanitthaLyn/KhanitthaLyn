@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Rhythm Lyn!
 
-<!--
-**KhanitthaLyn/KhanitthaLyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Software Developer passionate about Backend & SAP Development.  
+🌍 Preparing to move to Germany in 2026.  
+🌱 Currently learning **Java, Spring Boot, and React**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+- 💾 Backend: Java, Spring Boot 
+- 🌐 Frontend: React, HTML, CSS, JavaScript  
+- 🛢️ Database: MySQL, PostgreSQL  
+- ☁️ Tools: Git, Docker, VS Code, IntelliJ IDEA  
+
+---
+
+### 🚀 Projects
+- 🛍️
+- 💼 
+- 🔧 
+
+---
+
+### 📊 GitHub Stats
+![Rhythm's GitHub stats]
+
+![Top Langs]
+
+---
+
+### 📫 Connect with me
+[LinkedIn]) • [Portfolio] • [Email]
