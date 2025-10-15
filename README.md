@@ -63,4 +63,4 @@
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/khanittha-tantrongdee-lyn122535)
+[LinkedIn](https://www.linkedin.com/in/khanittha-tantrongdee-lyn122535) • [Email](mailto:khanitthamfu@gmail.com)
