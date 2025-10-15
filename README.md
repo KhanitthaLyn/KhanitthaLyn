@@ -56,10 +56,10 @@
 </p>
 
 💡 Interests
+- Backend Development
 - SAP Backend Development
 - DevOps & Cloud Automation
-- AI Tools & Automation (ChatGPT, Copilot, LangChain, Gemini, Claude)
-
+- 
 ---
 
 ### 🚀 Projects
