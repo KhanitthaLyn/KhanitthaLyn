@@ -45,8 +45,10 @@
 
 ---
 
-### 📊 GitHub Stats
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanitthaLyn&layout=compact&theme=dracula&hide=html,css)
+### 📈 GitHub Stats & Languages
+
+[My GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanitthaLyn&show_icons=true&theme=tokyonight)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanitthaLyn&layout=compact&theme=tokyonight)
 
 
 ---
