@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Rhythm Lyn!
+# 👋 Hi, I'm Khanittha!
 
-💻 I'm a Software Developer passionate about Backend & SAP Development.  
+💻 I'm a Junior Software Developer passionate about Backend & SAP Development.  
 🌍 Preparing to move to Germany in 2026.  
 🌱 Currently learning **Java, Spring Boot, and React**.
 
