@@ -39,7 +39,7 @@
 ---
 
 ### 🚀 Projects
-- 🛍️
+- 🛍️ [E-commerce Backend API](https://github.com/KhanitthaLyn/MyEcommerceProject_Backend_SpringBoot) – Spring Boot + JWT + REST
 - 💼 
 - 🔧 
 
