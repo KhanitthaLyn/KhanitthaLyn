@@ -55,6 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>
 </p>
 
+💡 Interests
+- SAP Backend Development
+- DevOps & Cloud Automation
+- AI Tools & Automation (ChatGPT, Copilot, LangChain, Gemini, Claude)
 
 ---
 
