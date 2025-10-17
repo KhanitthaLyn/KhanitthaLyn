@@ -63,7 +63,7 @@
 
 ### 🚀 Projects
 - 🛍️ [E-commerce Backend API](https://github.com/KhanitthaLyn/MyEcommerceProject_Backend_SpringBoot) – Spring Boot + JWT + REST
-- 🛍️ [E-commerce Frontend ]() – React + Tailwind CSS + Vite
+- 🛍️ [E-commerce Frontend ](https://github.com/KhanitthaLyn/MyEcommerceProject_Frontend_SpringBoot) – React + Tailwind CSS + Vite
 - 💼 [Portfolio]
 - 🔧 [Game-PacManDemoJava](https://github.com/KhanitthaLyn/PacManDemoJava) – Java
 - 🔧 [HTML-CSS-JavaScript-MiniProjects](https://github.com/KhanitthaLyn/HTML-CSS-JavaScript-MiniProjects) – HTML + CSS + JavaScript
