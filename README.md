@@ -57,8 +57,9 @@
 </p>
 
 💡 Interests
-- Backend Development
-- SAP Backend Development
+- Backend Developer / System Integration
+- SAP Backend / SAP Basis / Integration Consultant
+- AI Automation / API Integration
 - DevOps & Cloud Automation
 ---
 
