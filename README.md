@@ -2,7 +2,7 @@
 
 💻 I'm a Junior Software Developer passionate about Backend & SAP Development.  
 🌍 Preparing to move to Germany in 2026.  
-🌱 Currently learning **Java, Spring Boot, and React**.
+🌱 Currently learning **Java, Spring Boot,OAuth2, JWT, Spring AI, Chatbot and React**.
 
 ---
 
