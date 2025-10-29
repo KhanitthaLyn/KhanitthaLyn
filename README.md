@@ -67,7 +67,7 @@
 - 🛍️ [E-commerce Frontend ](https://github.com/KhanitthaLyn/MyEcommerceProject_Frontend_SpringBoot) – React + Tailwind CSS + Vite
 - 💼 [Portfolio]
 - 🔧 [Game-PacManDemoJava](https://github.com/KhanitthaLyn/PacManDemoJava) – Java
-- 🔧 [HTML-CSS-JavaScript-MiniProjects](https://github.com/KhanitthaLyn/HTML-CSS-JavaScript-MiniProjects) – HTML + CSS + JavaScript
+- 🔧 [HTML-CSS-JavaScript-MiniProjects](https://khanitthalyn.github.io/HTML-CSS-JavaScript-MiniProjects/) – HTML + CSS + JavaScript
 
 ---
 
