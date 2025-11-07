@@ -70,6 +70,28 @@
 
 ---
 
+## 💼 Current Work
+
+🧠 **Role:** WordPress Developer / Full Stack (PHP + API Integration)  
+🌐 **Website:** [thelightclass.com](https://thelightclass.com/)  
+
+**Overview:**  
+Currently responsible for developing and maintaining an online learning platform that offers investment courses.  
+Although my main focus is on **Java Spring Boot & Backend Development**,  
+this role allows me to gain hands-on experience in **API integration**, **automation**, and **real-world system deployment**.
+
+**Responsibilities:**
+- Customize and enhance the website using **WordPress**, **HTML**, **CSS**, and **PHP**.  
+- Develop **custom shortcodes** and implement **OpenAI API** to create an in-course chatbot assistant.  
+- Integrate **payment gateway (PaySolution)** and manage secure transaction flows.  
+- Optimize website performance and ensure responsive UI/UX consistency.  
+- Collaborate with instructors and design teams to deliver smooth learning experiences.
+
+**Tech Stack:**  
+`WordPress` · `PHP` · `HTML5` · `CSS3` · `JavaScript` · `Tutor LMS Pro` · `OpenAI API` · `PaySolution`
+
+---
+
 ### 📈 GitHub Stats & Languages
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanitthaLyn&show_icons=true&theme=tokyonight)
