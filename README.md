@@ -4,7 +4,7 @@
 
 🌍 Preparing to move to Germany in 2026.  
 
-🌱 Currently learning **Java, Spring Boot,OAuth2, JWT, Spring AI, Chatbot and React**.
+🌱 Currently learning **Java, Spring Boot,OAuth2, JWT, Spring AI, Chatbot and AI Automation**.
 
 🚀 Started with front-end projects for learning, now fully focused on Java Backend & API Integration — aiming to expand into AI Automation built on backend systems in the future.
 
