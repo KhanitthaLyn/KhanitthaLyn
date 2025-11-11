@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khanittha!
 
-💻 I'm a Junior Software Developer passionate about Backend & SAP Development.  
+💻 I'm a Junior Software Developer passionate about Backend Engineering, SAP Development, and AI Automation.
 🌍 Preparing to move to Germany in 2026.  
 🌱 Currently learning **Java, Spring Boot,OAuth2, JWT, Spring AI, Chatbot and React**.
 
