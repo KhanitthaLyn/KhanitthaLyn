@@ -86,7 +86,8 @@ While my long-term focus is on **Java Spring Boot & Backend Development**, this 
 - Collaborated with instructors and design teams to improve course delivery.
 
 **Tech Stack:**  
-`WordPress` · `PHP` · `HTML5` · `CSS3` · `JavaScript` · `Tutor LMS Pro` · `OpenAI API` · `PaySolution`
+`WordPress` · `PHP` · `HTML5` · `CSS3` · `JavaScript` · `Tutor LMS Pro` 
+
 ---
 
 ### 📈 GitHub Stats & Languages
