@@ -62,9 +62,11 @@
 </p>
 
 💡 Interests
-- Backend Developer / System Integration
-- SAP Backend / SAP Basis / Integration Consultant
-- AI Automation / API Integration
+- Backend Development / System Integration  
+- API Integration & AI Automation  
+- Microservices, Docker, AWS  
+- SAP Integration / SAP Backend (Future specialization)
+
 ---
 
 ### 🚀 Projects
