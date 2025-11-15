@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/ChatGPT-00B67A?style=for-the-badge&logo=openai&logoColor=white" height="40" title="ChatGPT"/>
   <img src="https://img.shields.io/badge/Copilot-239120?style=for-the-badge&logo=github&logoColor=white" height="40" title="GitHub Copilot"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" title="OpenAI API"/>
-  <img src="https://img.shields.io/badge/Chat_Blackbox-000000?style=for-the-badge&logo=blackbox&logoColor=white" height="40" title="Chat Blackbox"/>
   <img src="https://img.shields.io/badge/Gemini-0F52BA?style=for-the-badge&logo=gemini&logoColor=white" height="40" title="Gemini"/>
   <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" height="40" title="Claude"/>
 </p>
