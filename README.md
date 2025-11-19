@@ -7,7 +7,7 @@
 🌱 Learning Java & Spring Boot with a focus on secure backend development (OAuth2, JWT). Also exploring Spring AI for future automation and integration projects.
 🔜 Next step: diving into **Microservices architecture** with Spring Cloud, Docker, and messaging systems.
 
-🚀 Started with front-end projects for learning, now fully focused on Java Backend & API Integration — aiming to expand into AI Automation built on backend systems in the future.
+🚀 Started with front-end projects for learning, now fully focused on Java Backend & API Integration — aiming to expand into SAP & AI Automation built on backend systems in the future.
 
 ---
 
