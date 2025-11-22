@@ -6,9 +6,9 @@
 
 🚀 Core Skill: Applied Distributed Systems. Currently focusing on Monolith → Microservices migration to gain real-world architectural experience.
 ➡️ Key Technologies in Practice: 
-  * Asynchronous Communication: Implementing Event-Driven Architecture (EDA) with Apache Kafka.
-	* Resilience: Applying the Saga Orchestration Pattern for guaranteed distributed transaction consistency.
-	* Observability: Setting up Prometheus/Grafana with Actuator for proactive system monitoring.
+* Asynchronous Communication: Implementing Event-Driven Architecture (EDA) with Apache Kafka.
+* Resilience: Applying the Saga Orchestration Pattern for guaranteed distributed transaction consistency.
+* Observability: Setting up Prometheus/Grafana with Actuator for proactive system monitoring.
 
 🚀 Started with front-end projects for learning, now fully focused on Java Backend & API Integration — aiming to expand into SAP & AI Automation built on backend systems in the future.
 
