@@ -5,6 +5,7 @@
 🌍 Preparing to move to Germany in 2026.  
 
 🚀 Core Skill: Applied Distributed Systems. Currently focusing on Monolith → Microservices migration to gain real-world architectural experience.
+
 ➡️ Key Technologies in Practice: 
 * Asynchronous Communication: Implementing Event-Driven Architecture (EDA) with Apache Kafka.
 * Resilience: Applying the Saga Orchestration Pattern for guaranteed distributed transaction consistency.
