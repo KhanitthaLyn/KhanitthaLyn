@@ -11,7 +11,7 @@
 * Resilience: Applying the Saga Orchestration Pattern for guaranteed distributed transaction consistency.
 * Observability: Setting up Prometheus/Grafana with Actuator for proactive system monitoring.
 
-🚀 Started with front-end projects for learning, now fully focused on Java Backend & API Integration — aiming to expand into SAP & AI Automation built on backend systems in the future.
+🚀 Started with pixels, fell in love with Logic. Now exclusively focused on High-Performance Java Backend & Microservices. My goal: Mastering Distributed Systems today to build the AI-driven backends of tomorrow.
 
 ---
 
