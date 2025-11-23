@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khanittha!
 
-💻 Backend Engineer learning and building Distributed Systems with Java/Spring Boot.
+💻 Backend Engineer focusing on Microservices & scalable backend architecture (Java/Spring Boot).
 
 🌍 Preparing to move to Germany in 2026.  
 
