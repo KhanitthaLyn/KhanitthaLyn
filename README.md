@@ -1,17 +1,23 @@
 # 👋 Hi, I'm Khanittha!
 
-💻 Backend Engineer focusing on Microservices & scalable backend architecture (Java/Spring Boot).
+💻 Backend Developer exploring Microservices & distributed backend architecture (Java/Spring Boot).
 
-🌍 Preparing to move to Germany in 2026.  
+🌍 Preparing to relocate to Germany in 2026.
 
-🚀 Core Skill: Applied Distributed Systems. Currently focusing on Monolith → Microservices migration to gain real-world architectural experience.
+🚀 Current Focus:
+Gaining real-world experience by refactoring a monolithic e-commerce project into microservices to understand service boundaries, communication patterns, and scalability challenges.
 
-➡️ Key Technologies in Practice: 
-* Asynchronous Communication: Implementing Event-Driven Architecture (EDA) with Apache Kafka.
-* Resilience: Applying the Saga Orchestration Pattern for guaranteed distributed transaction consistency.
-* Observability: Setting up Prometheus/Grafana with Actuator for proactive system monitoring.
+➡️ Key Areas I'm Learning & Practicing:
 
-🚀 Started with pixels, fell in love with Logic. Now exclusively focused on High-Performance Java Backend & Microservices. My goal: Mastering Distributed Systems today to build the AI-driven backends of tomorrow.
+Asynchronous Communication: Exploring Event-Driven Architecture (EDA) and experimenting with Kafka for service decoupling.
+
+Resilience Patterns: Studying Saga/Outbox patterns for handling distributed workflows.
+
+Observability: Learning how to use Actuator, Micrometer, and basic monitoring tools to understand metrics and service health.
+
+🧠 Journey:
+Started as full-stack, but quickly realized my strength is in logic & backend system design.
+Now I’m fully focused on building a strong foundation in Java Backend, Microservices, and Distributed Systems — aiming to contribute to high-performance backend platforms in the future.
 
 ---
 
