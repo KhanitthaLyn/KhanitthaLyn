@@ -65,7 +65,7 @@
 </p>
 
 💡 Interests
-- Backend Development / System Integration  
+- Backend Development / Distributed Systems 
 - API Integration & AI Automation  
 - Microservices, Docker, AWS  
 
