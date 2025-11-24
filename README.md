@@ -65,9 +65,9 @@
 </p>
 
 💡 Interests
-- Backend Development / Distributed Systems 
-- High-Performance API Design & AI Automation  
-- Microservices, Docker, AWS  
+- 🏗️ Enterprise Backend Architecture / Distributed Systems
+- ☁️ Cloud-Native Solutions & Event-Driven Design
+- 🐳 Microservices (Spring Boot), Kubernetes, DevOps Practices
 
 ---
 
