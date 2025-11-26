@@ -7,14 +7,6 @@
 🚀 Current Focus:
 Gaining real-world experience by refactoring a monolithic e-commerce project into microservices to understand service boundaries, communication patterns, and scalability challenges.
 
-➡️ Key Areas I'm Learning & Practicing:
-
-Asynchronous Communication: Exploring Event-Driven Architecture (EDA) and experimenting with Kafka for service decoupling.
-
-Resilience Patterns: Studying Saga/Outbox patterns for handling distributed workflows.
-
-Observability: Learning how to use Actuator, Micrometer, and basic monitoring tools to understand metrics and service health.
-
 🧠 Journey:
 Started as full-stack, but quickly realized my strength is in logic & backend system design.
 Now I’m fully focused on building a strong foundation in Java Backend, Microservices, and Distributed Systems — aiming to contribute to high-performance backend platforms in the future.
