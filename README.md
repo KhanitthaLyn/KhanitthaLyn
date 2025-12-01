@@ -21,7 +21,6 @@ Now I’m fully focused on building a strong foundation in Java Backend, Microse
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="25" title="JWT"/>
   <img src="https://img.shields.io/badge/Lombok-ED2E7E?style=for-the-badge&logo=Lombok&logoColor=white" height="25" title="Lombok"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height="25" title="Python"/>
 </p>
 
 🌐 Frontend
