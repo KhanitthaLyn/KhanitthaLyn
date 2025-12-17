@@ -39,20 +39,13 @@ Now I’m fully focused on building a strong foundation in Java Backend, Microse
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>
 </p>
 
-☁️ Tools + 🤖 AI & Automation
+☁️ Tools 
 <p>
   <!-- Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" title="IntelliJ IDEA"/>
-  
-  <!-- AI Tools -->
-  <img src="https://img.shields.io/badge/ChatGPT-00B67A?style=for-the-badge&logo=openai&logoColor=white" height="40" title="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Copilot-239120?style=for-the-badge&logo=github&logoColor=white" height="40" title="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" title="OpenAI API"/>
-  <img src="https://img.shields.io/badge/Gemini-0F52BA?style=for-the-badge&logo=gemini&logoColor=white" height="40" title="Gemini"/>
-  <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" height="40" title="Claude"/>
 </p>
 
 
