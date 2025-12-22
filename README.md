@@ -55,9 +55,9 @@ Now I’m fully focused on building a strong foundation in Java Backend, Microse
 </p>
 
 💡 Interests
-- 🏗️ Enterprise Backend Architecture / Distributed Systems
-- ☁️ Cloud-Native Solutions & Event-Driven Design
-- 🐳 Microservices (Spring Boot), Kubernetes, DevOps Practices
+- 🏗️ Backend & Reliability Architecture (resilience, observability, performance)
+- 🧩 Distributed Systems & Event-Driven Design
+- 🐳 Microservices / Modular Monolith (Spring Boot), Kubernetes & DevOps (learning / building in projects)
 
 ---
 
