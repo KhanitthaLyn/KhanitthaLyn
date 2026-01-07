@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khanittha!
 
-💻 Backend Developer exploring Microservices & distributed backend architecture (Java/Spring Boot).
+💻 Backend Developer (Java/Spring Boot) focused on microservices fundamentals and service-based architecture.
 
 🌍 Preparing to relocate to Germany in 2026.
 
