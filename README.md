@@ -65,7 +65,6 @@ Now I’m fully focused on building a strong foundation in Java Backend, Microse
 - 🏗️ [Microservices-Practice](https://github.com/KhanitthaLyn/Microservices-Practice) – Microservices + Docker (🚧 In Progress)
 - 🛍️ [E-commerce Backend API](https://github.com/KhanitthaLyn/MyEcommerceProject_Backend_SpringBoot) – Spring Boot + JWT + REST
 - 🛍️ [E-commerce Frontend ](https://github.com/KhanitthaLyn/MyEcommerceProject_Frontend_SpringBoot) – React + Tailwind CSS + Vite
-- 💼 [Portfolio](https://khanitthalyn.github.io/Portfolio_Lyn/) – HTML + CSS - JS
 - 🔧 [HTML-CSS-JavaScript-MiniProjects](https://khanitthalyn.github.io/HTML-CSS-JavaScript-MiniProjects/) – HTML + CSS + JavaScript
 
 ---
