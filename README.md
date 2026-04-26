@@ -1,81 +1,93 @@
-# 👋 Hi, I'm Khanittha!
+<h1 align="center">Hi, I'm Khanittha 👋</h1>
+<h3 align="center">Backend Developer · Java / Spring Boot · Microservices Enthusiast</h3>
 
-💻 Backend Developer (Java/Spring Boot) focused on microservices fundamentals and service-based architecture.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-1E90FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Java%20%2F%20Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices-FF6B6B?style=flat-square" />
+</p>
 
-🌍 Preparing to relocate to Germany in 2026.
+---
 
-🚀 Current Focus:
-Gaining real-world experience by refactoring a monolithic e-commerce project into microservices to understand service boundaries, communication patterns, and scalability challenges.
+### 🎯 Purpose
 
-🧠 Journey:
-Started as full-stack, but quickly realized my strength is in logic & backend system design.
-Now I’m fully focused on building a strong foundation in Java Backend, Microservices, and Distributed Systems — aiming to contribute to high-performance backend platforms in the future.
+I build **backend systems** with a focus on clean service boundaries, reliability, and scalability.
+Currently deepening my expertise in **Java, Spring Boot, and distributed systems** — moving from monolithic thinking to **microservices architecture** through hands-on practice.
+
+My goal is simple: **contribute to high-performance backend platforms** that solve real business problems at scale.
+
+> 🚧 **Now learning by doing:** Refactoring a monolithic e-commerce project into microservices to understand service boundaries, inter-service communication, and resilience patterns.
 
 ---
 
 ### 🧠 Tech Stack
 
-💾 Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="25" title="JWT"/>
-  <img src="https://img.shields.io/badge/Lombok-ED2E7E?style=for-the-badge&logo=Lombok&logoColor=white" height="25" title="Lombok"/>
-</p>
+**💾 Backend**
 
-🌐 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</p>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-ED2E7E?style=for-the-badge&logo=lombok&logoColor=white)
 
-🛢️ Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40" title="Hibernate"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>
-</p>
+**🛢️ Database & API**
 
-☁️ Tools 
-<p>
-  <!-- Dev Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" title="IntelliJ IDEA"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+**☁️ DevOps & Cloud**
 
-☁️ Deployment / Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-💡 Interests
-- 🏗️ Backend & Reliability Architecture (resilience, observability, performance)
-- 🧩 Distributed Systems & Event-Driven Design
-- 🐳 Microservices / Modular Monolith (Spring Boot), Kubernetes & DevOps (learning / building in projects)
+**🌐 Frontend (Supporting)**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🚀 Projects
-- 🏗️ [Microservices-PoC](https://github.com/KhanitthaLyn/Microservices-Practice) – Microservices + Docker (🚧 In Progress)
-- 🛍️ [E-commerce Backend API](https://github.com/KhanitthaLyn/MyEcommerceProject_Backend_SpringBoot) – Spring Boot + JWT + REST
-- 🛍️ [E-commerce Frontend ](https://github.com/KhanitthaLyn/MyEcommerceProject_Frontend_SpringBoot) – React + Tailwind CSS + Vite
-- 🔧 [HTML-CSS-JavaScript-MiniProjects](https://khanitthalyn.github.io/HTML-CSS-JavaScript-MiniProjects/) – HTML + CSS + JavaScript
+### 💡 What I Care About
+
+- 🏗️ **Backend & Reliability Architecture** — resilience, observability, performance
+- 🧩 **Distributed Systems & Event-Driven Design** — async messaging, eventual consistency
+- 🐳 **Microservices & Modular Monolith** — clear service boundaries with Spring Boot
+- ☸️ **Kubernetes & DevOps** — currently exploring through hands-on projects
 
 ---
 
-### 📈 GitHub Stats & Languages
+### 🚀 Featured Projects
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanitthaLyn&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanitthaLyn&layout=compact&theme=tokyonight)
-
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏗️ [**Microservices PoC**](https://github.com/KhanitthaLyn/Microservices-Practice) | Refactoring a monolith into independently deployable services 🚧 | Spring Boot · Docker · REST |
+| 🛍️ [**E-commerce Backend API**](https://github.com/KhanitthaLyn/MyEcommerceProject_Backend_SpringBoot) | RESTful API with JWT authentication & layered architecture | Spring Boot · JWT · MySQL |
+| 🎨 [**E-commerce Frontend**](https://github.com/KhanitthaLyn/MyEcommerceProject_Frontend_SpringBoot) | Companion UI for the e-commerce backend | React · Tailwind · Vite |
+| 🧪 [**Mini Projects**](https://khanitthalyn.github.io/HTML-CSS-JavaScript-MiniProjects/) | Frontend fundamentals playground | HTML · CSS · JavaScript |
 
 ---
 
-### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/khanittha-tantrongdee-lyn122535) • [Email](mailto:khanitthamfu@gmail.com)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhanitthaLyn&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanitthaLyn&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanittha-tantrongdee-lyn122535)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanitthamfu@gmail.com)
+
+<p align="center">
+  <i>"Good backend is invisible — it just works, scales, and never wakes you up at 3 AM." 🌙</i>
+</p>
