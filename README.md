@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khanittha 👋</h1>
-<h3 align="center">Backend Developer/Software Engineer · Java / Spring Boot · Microservices Enthusiast</h3>
+<h3 align="center">Backend Engineer/Software Engineer · Java / Spring Boot · Microservices Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-1E90FF?style=flat-square" />
